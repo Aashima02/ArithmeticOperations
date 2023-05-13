@@ -1,4 +1,4 @@
-# Experiment 1: ArithmeticOperations
+# Experiment 1: Arithmetic Operations
 
 ## AIM:
 
