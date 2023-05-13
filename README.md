@@ -6,19 +6,19 @@ To write a Java program to print the sum, multiply, subtract, divide and remaind
 
 ## ALGORITHM:
 
-#### Step 1: 
+### Step 1: 
 Create the main class and declare the main method so that the program can be identified and start running.
 
-#### Step 2:
+### Step 2:
 In main method decalre two variables with appropriate data type declaration.
 
-#### Step 3:
+### Step 3:
 Perform the basic arithmatic operations (addition,subtraction,multiplication,division).
 
-#### Step 4:
+### Step 4:
 Print the output using "System.outprintln" to see the results.
 
-#### Step 5:
+### Step 5:
 The program completes it's execution and the output will be displayed eventually.
 
 ## PROGRAM:
